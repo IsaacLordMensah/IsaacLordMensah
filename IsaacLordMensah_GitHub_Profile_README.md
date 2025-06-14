@@ -26,6 +26,6 @@ IT Systems Admin | Cybersecurity & Fire Safety | MSc. IT @ KNUST | Learning Germ
 
 - LinkedIn: [linkedin.com/in/isaaclordmensah](https://linkedin.com/in/isaaclordmensah)
 - Email: papabodohgh1@gmail.com
-- GitHub Repos: [github.com/YOUR_USERNAME](https://github.com/IsaacLordMenssah)
+- GitHub Repos: [github.com/IsaacLordMensah](https://github.com/IsaacLordMenssah)
 
 Open to freelance, part-time, and full-time IT/Support/Admin roles in Germany or remote. Resume/CV available upon request or in pinned repositories.
