@@ -32,7 +32,7 @@
 
 - LinkedIn: [linkedin.com/in/isaaclordmensah](https://linkedin.com/in/isaaclordmensah)
 - Email: papabodohgh1@gmail.com
-- GitHub Repos: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub Repos: [github.com/YOUR_USERNAME](https://github.com/IsaacLordMenssah)
 
 ---
 
